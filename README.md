@@ -17,5 +17,5 @@
 
 <details>
   <summary><b>GitHub</b> Activity</summary>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MrLuxxy&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrLuxxy&theme=tokyonight&hide=batchfile">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MrHada&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrLuxxy&theme=tokyonight&hide=batchfile">
 </details>
